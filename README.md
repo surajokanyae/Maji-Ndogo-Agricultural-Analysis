@@ -1,4 +1,9 @@
 # Integrated Project: Understanding Maji Ndogo's Agriculture
+## Table of Contents
+1. [Data Sourcing](#-data-sourcing)
+2. [Data Cleaning](#-data-cleaning)
+3. [Exploratory Data Analysis](#-exploratory-data-analysis)
+4. [Conclusions](#-conclusions)
 
 ## 📌 Project Overview
 This project focuses on the intersection of data science and agriculture. Using Python and SQL, I analyzed agricultural data from Maji Ndogo to identify patterns in soil fertility, climate conditions, and crop yields.
